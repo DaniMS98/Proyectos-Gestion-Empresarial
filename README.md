@@ -64,7 +64,7 @@ Configurar las rutas de abastecimiento para que funcionen con las rutas creadas 
 
 1. Configurar las reglas de ambos almacenes (Águilas y Moratalla) para que se comporten como el almacén de Águilas.<br>Almacén Principal ---- PULL --> Águilas Abasteciemiento         Águilas Abastecimiento --- PULL --> Stock Águilas
 2. Establecer reglas de abastecimiento para un producto en el almacén principal. Con la ruta de compras.
-3.Establecer reglas de abastecimiento para el mismo producto en el almacén de Águilas, usando la ruta Abastecimiento Águilas
+3. Establecer reglas de abastecimiento para el mismo producto en el almacén de Águilas, usando la ruta Abastecimiento Águilas
 4. Establecer reglas de abastecimiento para el mismo producto en el almacén de Moratalla, usando la ruta Abastecimiento Moratalla
 5. Establecer las cantidades de stock del producto seleccionado, por debajo de las reglas de abastecimiento.
 6. Ejecutar el planificador.
@@ -96,7 +96,6 @@ Explora la funcionalidad del módulo Sitio Web:
 - Explorar los componentes disponibles para crear las distintas páginas WEB.
 - Tenéis que mostrar las funcionalidades que ofrece el módulo desde el punto de vista de los clientes de vuestra empresa.
 - Crear un documento con vuestros nombres, en el que relatéis de forma breve cada funcionalidad explorada y la bibliografía utilizada.
-- Se realizará una presentación entre el Lunes 31 y martes 1 dónde se mostrarán las distintas funcionalidades.
 
 ## Practica 05 - Comercio Electronico
 Tomando como referencia la documentación del siguiente enlace: https://www.odoo.com/documentation/14.0/es/applications/websites/ecommerce.html crea la parte de comercio electrónico para la página que habéis creado en la práctica 04.
@@ -117,7 +116,6 @@ Deben tratarse al menos los siguientes apartados (8 puntos):
 - Crear y compartir códigos promocionales
 
 Cualquier detalle adicional, módulo complementario o mejora a esta documentación será tenido en cuenta. (2 puntos)
-
 - Si no se trata alguno de los apartados, la calificación será negativa.
 
 Entrega:
@@ -128,7 +126,7 @@ Estudiar las configuración del punto de venta para un restaurante.
 Crear una presentación (que debéis entregar aquí) para explicar las opciones de configuración y el funcionamiento.
 
 Se deberá incluir como mínimo: (8 puntos)
-- Mesas ( 2 puntos )
+- Mesas (2 puntos)
 - Dividir cuentas (1 punto)
 - Imprimir el ticket (1 punto)
 - Imprimir órdenes en cocina o bar (2 puntos)
