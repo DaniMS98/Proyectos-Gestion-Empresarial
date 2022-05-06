@@ -1,2 +1,6 @@
 "Secuencia","Nombre","Tipo de producto","Categoría de producto","Referencia interna","Código de barras","Precio de venta","Coste","Puede ser vendido","Puede ser comprado"
-"1","MSI B460M PRO-VDH WIFI","Almacenable","Componentes / Placas Base","911-7C83-03S","300457","100.9","66.11","True","True"
+"1","MSI GeForce GTX 1660 SUPER Ventus XS OC 6GB GDDR6","Almacenable","Componentes / Componentes / Tarjetas Gráficas","GRAF01","001","391.0","300.0","True","True"
+"1","Asus Dual GeForce RTX 2060 EVO 6GB GDDR6","Almacenable","Componentes / Componentes / Tarjetas Gráficas","GRAF02","002","461.0","350.0","True","True"
+"1","Sapphire PULSE AMD Radeon RX 6600 8GB GDDR6","Almacenable","Componentes / Componentes / Tarjetas Gráficas","GRAF03","003","379.0","280.0","True","True"
+"1","Gigabyte GeForce RTX 3060 GAMING OC 12GB GDDR6 Rev 2.0","Almacenable","Componentes / Componentes / Tarjetas Gráficas","GRAF04","004","539.0","400.0","True","True"
+"1","Sapphire NITRO+ AMD RADEON RX 6600 XT GAMING OC 8GB GDDR6","Almacenable","Componentes / Componentes / Tarjetas Gráficas","GRAF05","005","449.0","350.0","True","True"
